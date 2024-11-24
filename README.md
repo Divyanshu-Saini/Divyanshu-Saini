@@ -38,8 +38,7 @@ Full Stack Developer with 7+ years of experience specializing in modern web tech
 - **Project Management:** Agile, JIRA, IBM Rally
 
 ## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Divyanshu-Saini&theme=react-dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu-Saini&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🎓 Education & Achievements
 - Bachelor of Engineering in Information Technology (CGPA: 7.53)
