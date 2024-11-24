@@ -14,28 +14,57 @@ Full Stack Developer with 7+ years of experience specializing in modern web tech
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-- **Frontend:** Angular, React, Vue.js, Electron
-- **Backend:** Node.js, Express.js, NestJS, LoopBack 4
-- **Languages:** JavaScript, TypeScript, Java, SQL
+### Programming Languages
+- **Backend:** JavaScript, TypeScript, Python, Java
+- **Query Languages:** SQL, GraphQL
+- **Markup/Styling:** HTML5, CSS3, SCSS
+
+### Frontend Technologies
+- **Frameworks:** Angular, React, Vue.js
+- **Desktop:** Electron
 - **Mobile:** NativeScript
+- **UI Libraries:** Bootstrap, Materialize
+- **State Management:** Redux, Vuex
+
+### Backend & APIs
+- **Runtime:** Node.js
+- **Frameworks:** Express.js, Fastify, NestJS, LoopBack 4
+- **API Types:** REST, GraphQL
+- **Documentation:** Swagger/OpenAPI
 
 ### Databases & Search
 - **SQL:** PostgreSQL, MySQL
 - **NoSQL:** MongoDB, Redis, Firestore
 - **Search Engines:** Elasticsearch
+- **Caching:** Redis
+- **ORM/ODM:** Mongoose, Sequelize
 
 ### Cloud & DevOps
-- **AWS Services:** AppSync, Amplify, Cognito, Lex, Lambda, EventBridge
-- **Other Cloud:** Firebase, Heroku, Azure
-- **DevOps Tools:** Docker, Git, ELK Stack
-- **CI/CD:** Azure DevOps
+- **Cloud Platforms:**
+  - AWS (AppSync, Amplify, Cognito, Lex, Lambda, EventBridge)
+  - GCP (GKE, Cloud Run)
+  - Azure, Firebase, Heroku
+- **Container Orchestration:**
+  - Kubernetes (GKE)
+  - Docker
+- **CI/CD:** Azure DevOps, GitHub Actions, GitLab CI/CD
+- **Monitoring:** ELK Stack
+- **Version Control:** Git, GitHub, GitLab
+- **Workflow Orchestration:** Apache Airflow
+
+### Project Management & Collaboration
+- **Agile Tools:** JIRA
+- **Documentation:** Confluence, GitLab Wiki
+- **Methodologies:** Agile, Scrum, Kanban
+- **Team Collaboration:** Slack, Microsoft Teams
+- **Code Review:** GitLab MR, GitHub PR
 
 ### Specialized Skills
-- **API Development:** REST, GraphQL
 - **Conversational AI:** Dialogflow, AWS Lex, RASA
-- **UI Frameworks:** Bootstrap, Materialize
-- **Project Management:** Agile, JIRA, IBM Rally
+- **Architecture:** Microservices, Event-Driven
+- **Security:** OAuth 2.0, JWT, AWS Cognito
+- **Testing:** Jest, Mocha
+- **Data Pipeline:** Apache Airflow, ETL Workflows
 
 ## 📈 Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu-Saini&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -53,6 +82,10 @@ Full Stack Developer with 7+ years of experience specializing in modern web tech
 - Creating cross-platform desktop applications
 - Designing and optimizing database schemas
 - Implementing cloud-native solutions
+- Container orchestration and cloud infrastructure
+- Agile project management and team collaboration
+- Data workflow orchestration and ETL pipelines
+- High-performance API development with Fastify
 
 ## 📫 Connect With Me
 - LinkedIn: [linkedin.com/in/sainidivyanshu](https://linkedin.com/in/sainidivyanshu)
